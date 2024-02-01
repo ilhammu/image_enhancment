@@ -4,5 +4,7 @@
 
 **How to start ?**
 
-`pip install streamlit
-streamlit run app.py`
+```
+pip install streamlit
+streamlit run app.py
+
